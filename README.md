@@ -24,7 +24,7 @@ A Python application that determines whether an employee is eligible for health 
 - `app.py` - Streamlit user interface
 - `eligibility.py` - Eligibility business logic
 - `database.py` - Database operations
-- `benefits.db` - SQLite database
+- `benefits.db` - Local SQLite database
 
 ## Eligibility Rules
 
