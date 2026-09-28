@@ -45,3 +45,6 @@ The application was tested with multiple scenarios, including:
 - Inactive employee with more than 400 hours
 
 Testing the 399-hour and 400-hour scenarios verifies that the eligibility boundary works correctly.
+## Application Screenshot
+
+![Employee Health Benefits Eligibility Application](app-screenshot.png)
